@@ -1,16 +1,25 @@
-## Hi there 👋
+Merhaba, ben <Berrin> 👋🏻
+<br>
 
-<!--
-**Berrinsrc/Berrinsrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar mühendisliği öğrencisiyim 👉🏻 <https://www.bartin.edu.tr/>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💁🏻‍♀️ Hakkımda Biraz Daha...
+
+const yourProfile = {
+  pronouns: "she / her", 
+  bio: "<Bilgisayar mühendisliği öğrencisi. Java ile algoritmalar ve veri yapıları üzerine projeler geliştiriyorum.>", 
+  codes: ["java", "c#", "php", "html", "css", "python","MySQL"], 
+  tools: ["React", "Git"], 
+ 
+  challenges: "Arduino ve yapay zeka projeleri üzerinde çalışıyorum. TinyML ve nesne tanıma konularında kendimi geliştirmeyi hedefliyorum."
+};
+
+
+<br>
+
+💖 Yeni insanlarla tanışmayı seviyorum, bu yüzden çekinmeden merhaba diyebilirsiniz!
+👩🏻‍💻 Gmail hesabım    👉🏻 <berrinsurucu67@gmail.com>
+👩🏻‍💻 Linkedin hesabım 👉🏻 <https://www.linkedin.com/in/berrin-s%C3%BCr%C3%BCc%C3%BC-22227930b/>
