@@ -1,4 +1,6 @@
-Merhaba, ben Berrin 👋🏻
+# Merhaba, ben Berrin! 👋🏻
+---
+
 <br>
 
 Bilgisayar mühendisliği öğrencisiyim 👉🏻 <https://www.bartin.edu.tr/>
