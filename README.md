@@ -1,4 +1,4 @@
-Merhaba, ben <Berrin> 👋🏻
+Merhaba, ben Berrin 👋🏻
 <br>
 
 Bilgisayar mühendisliği öğrencisiyim 👉🏻 <https://www.bartin.edu.tr/>
@@ -21,5 +21,7 @@ const yourProfile = {
 <br>
 
 💖 Yeni insanlarla tanışmayı seviyorum, bu yüzden çekinmeden merhaba diyebilirsiniz!
+<br>
 👩🏻‍💻 Gmail hesabım    👉🏻 <berrinsurucu67@gmail.com>
+<br>
 👩🏻‍💻 Linkedin hesabım 👉🏻 <https://www.linkedin.com/in/berrin-s%C3%BCr%C3%BCc%C3%BC-22227930b/>
