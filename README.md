@@ -8,6 +8,7 @@ Bilgisayar mühendisliği öğrencisiyim 👉🏻 <https://www.bartin.edu.tr/>
 
 💁🏻‍♀️ Hakkımda Biraz Daha...
 
+```
 const yourProfile = {
   pronouns: "she / her", 
   bio: "<Bilgisayar mühendisliği öğrencisi. Java ile algoritmalar ve veri yapıları üzerine projeler geliştiriyorum.>", 
@@ -17,6 +18,7 @@ const yourProfile = {
   challenges: "Arduino ve yapay zeka projeleri üzerinde çalışıyorum. TinyML ve nesne tanıma konularında kendimi geliştirmeyi hedefliyorum."
 };
 
+``` 
 
 <br>
 
