@@ -18,7 +18,7 @@ const yourProfile = {
   challenges: "Arduino ve yapay zeka projeleri üzerinde çalışıyorum. TinyML ve nesne tanıma konularında kendimi geliştirmeyi hedefliyorum."
 };
 
-```javascript
+```
 
 <br><br>
 
